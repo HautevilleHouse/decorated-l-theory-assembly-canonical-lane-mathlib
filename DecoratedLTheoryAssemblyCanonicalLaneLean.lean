@@ -1,0 +1,7 @@
+-- This module is the root of the DecoratedLTheoryAssemblyCanonicalLaneLean Lean proof package.
+import DecoratedLTheoryAssemblyCanonicalLaneLean.Basic
+import DecoratedLTheoryAssemblyCanonicalLaneLean.SourcePackage
+import DecoratedLTheoryAssemblyCanonicalLaneLean.SourceDependencies
+import DecoratedLTheoryAssemblyCanonicalLaneLean.Formalization
+import DecoratedLTheoryAssemblyCanonicalLaneLean.ReviewerBridge
+import DecoratedLTheoryAssemblyCanonicalLaneLean.TheoremStatement

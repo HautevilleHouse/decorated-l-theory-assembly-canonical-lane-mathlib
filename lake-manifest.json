@@ -1,0 +1,6 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "decorated_l_theory_assembly_canonical_lane_lean",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
